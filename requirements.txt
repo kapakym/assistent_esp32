@@ -1,0 +1,8 @@
+Flask==3.0.3
+gTTS==2.5.4
+time
+gigachat==0.1.39.post1
+PyAudio==0.2.14
+socket
+requests==2.32.3
+vosk==0.3.44
